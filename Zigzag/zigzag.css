@@ -1,0 +1,13 @@
+body{
+    display: flex;
+}
+
+article{
+    display: flex;
+    font-family: "roboto";
+    width: 1440px;
+    padding: 20px;
+    box-sizing: border-box;
+    justify-content: space-between;
+
+}
